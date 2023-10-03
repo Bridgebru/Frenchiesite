@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href='./style.css' rel='stylesheet'>
+</head>
+
+<body>
+<!--<img id='header-image' src="https://static.vecteezy.com/system/resources/thumbnails/005/230/442/small/cute-french-bulldog-puppy-smilling-cartoon-illustration-vector.jpg"/>-->
+<h1 id='intro'> My name is Bailey the Frenchie, Welcome to my Site!</h1>
+
+<ul id='content'>Table of Content:</ul>
+  <li><a href="#aboutme">About Me</li></a>
+  <li><a href="#favoritethings">My Favorite Things</li></a>
+  <li><a href="#dislike">What I dislike</li></a>
+  <li><a href="#family">My Family</li></a>
+  <li><a href="#pictures">Pictures</li></a>
+  <li><a href="#schedule">My Schedule</li></a>
+
+<div id="aboutme">
+  <h2>About Me:</h2>
+    <p>I'm a purebreed French Bulldog, who's name is Bailey. I'm 7 Years old.</p>
+    <p><a href="https://dogtime.com/dog-breeds/french-bulldog" target="_blank"><strong>Here's</strong></a> some info about my breed.</p>
+</div>
+
+<div id="favoritethings">
+  <h2>My Favorite Things:</h2>
+    <p>I'm a quite lazy boy who loves to sleep, but I do enjoy playing football.</p>
+  </div>
+
+  <div id="dislike">
+    <h2>What I dislike:</h2>
+      <p>I <strong>HATE</strong> water! It's so wet....ugh!</p>
+    </div>
+
+    <div id="family">
+      <h2>My Family:</h2>
+        <p>I have a human mom, dad, sister and brother. I also have a sister whom is a cat!</p>
+      </div>
+
+      <div id="pictures">
+        <h2>Pictures:</h2>
+        <img src="data:image/jpeg;base64,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" width="300" height="200"/>
+
+      </div>
+
+  <div id="schedule">
+    <h2>My Daily Schedule:</h2>
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Time</th>
+          <th scope="col">Monday</th>
+          <th scope="col">Tuesday</th>
+          <th scope="col">Wednesday</th>
+          <th scope="col">Thursday</th>
+          <th scope="col">Friday</th>
+          <th scope="col">Saturday</th>
+          <th scope="col">Sunday</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="left">07:00</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td
+        </tr>
+        <tr>
+          <td>08:00</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+        </tr>
+        <tr>
+          <td>09:00</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+          <td>Sleep</td>
+        </tr>
+        <tr>
+          <td>10:00</td>
+          <td>Move from bathroom to livingroom</td>
+          <td>Move from bathroom to livingroom</td>
+          <td>Move from bathroom to livingroom</td>
+          <td>Move from bathroom to livingroom</td>
+          <td>Move from bathroom to livingroom</td>
+          <td>Move from bathroom to livingroom</td>
+          <td>Move from bathroom to livingroom</td>
+        </tr>
+        <tr>
+          <td>11:00</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+        </tr>
+        <tr>
+          <td>12:00</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+          <td>Sleep some more</td>
+        </tr>
+
+
+      </tbody>
+
+
+
+
+
+</body>
+  
+  </html>
