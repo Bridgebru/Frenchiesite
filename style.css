@@ -1,0 +1,46 @@
+#intro {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  padding: 20px;
+  background-image: url('https://static.posters.cz/image/750/plakater/spring-forrest-i101995.jpg');
+}
+#content {
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+li {
+  border: 3px solid black;
+  border-radius: 14px;
+  padding: 10px;
+  
+}
+#header-image {
+  width: 400px;
+  height: 400px;
+  background-image: url('https://static.posters.cz/image/750/plakater/spring-forrest-i101995.jpg');
+}
+#aboutme {
+  padding: 14px;
+}
+#favoritethings {
+  padding: 14px;
+}
+#dislike {
+  padding: 14px;
+}
+#family {
+  padding: 14px;
+}
+#pictures {
+  padding: 14px;
+}
+table {
+  border: 3px solid black;
+  font-size: 14px;
+}
+body {
+  background-color: Azure;
+ 
+}
